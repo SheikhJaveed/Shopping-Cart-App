@@ -19,6 +19,6 @@ This is a **Shopping Cart Application** built using **Java Swing**. It provides 
 
 ## Installation  
    Clone the repository:  
-   git clone https://github.com/your-username/java-shopping-cart.git
-   cd shopping-cart-app
+   git clone https://github.com/your-username/java-shopping-cart.git   
+   cd shopping-cart-app   
    Run Main.java
